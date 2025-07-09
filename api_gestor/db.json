@@ -1,0 +1,16 @@
+{   
+    "1":[
+        {
+            "name":"pedro",
+            "email": "karhi@gmail.com",
+            "phone": "7305477760",
+            "Enroll_number":"1121639994",
+            "date_admision":{
+                "day":30,
+                "mounth":"december",
+                "year":2021
+            }
+
+        }
+    ]
+}

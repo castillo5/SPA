@@ -1,0 +1,38 @@
+{
+  "devDependencies": {
+    "vite": "^7.0.3"
+  },
+  "name": "new_proyect",
+  "version": "1.0.0",
+  "description": "prueba spa",
+  "main": "script.js",
+  "dependencies": {
+    "esbuild": "^0.25.6",
+    "fdir": "^6.4.6",
+    "json-server": "^1.0.0-beta.3",
+    "nanoid": "^3.3.11",
+    "picocolors": "^1.1.1",
+    "picomatch": "^4.0.2",
+    "postcss": "^8.5.6",
+    "rollup": "^4.44.2",
+    "source-map-js": "^1.2.1",
+    "tinyglobby": "^0.2.14"
+  },
+  "scripts": {
+    "test": "pah",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castillo5/SPA.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Dusk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/castillo5/SPA/issues"
+  },
+  "homepage": "https://github.com/castillo5/SPA#readme"
+}
